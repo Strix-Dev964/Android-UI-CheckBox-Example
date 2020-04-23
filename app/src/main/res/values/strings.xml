@@ -1,0 +1,12 @@
+<!--
+Created by Strix - http://strixdev.co.uk
+-->
+
+<resources>
+    <string name="app_name">Strix - CheckBox Example</string>
+    <string name="hello">Strix Example, Strix App Activity!</string>
+    <string name="chk_box1">CheckBox 1</string>
+    <string name="chk_box2">CheckBox 2</string>
+    <string name="chk_box3">CheckBox 3</string>
+    <string name="btn_chk">Check Results</string>
+</resources>
